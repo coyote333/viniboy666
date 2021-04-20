@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @coyote333
 - 👀 I’m interested in PHP, Symfony Framework, JQuery
 - 🌱 I’m currently learning Symfony Framework
-- 💞️ I’m looking to collaborate on Document management system
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on clasification system
+- 📫 How to reach me : coyote333666@gmail.com
 
 <!---
-viniboy666/viniboy666 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+coyote333/coyote333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
