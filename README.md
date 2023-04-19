@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @coyote333666
-- 👀 I’m interested in PHP, Symfony Framework, JQuery
-- 🌱 I’m currently learning Symfony Framework
-- 💞️ I’m looking to collaborate on clasification system (document management)
+- 👀 I’m interested in PHP, JQuery UI, Postgresql
 - 📫 How to reach me : coyote333666@gmail.com
 - My website : https://sites.google.com/site/coyote333666
 
